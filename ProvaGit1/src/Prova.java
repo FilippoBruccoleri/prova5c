@@ -7,6 +7,7 @@ public class Prova {
 		System.out.println("Hello world");
 		
 		System.out.println("Ciao mondo");
+		System.out.println("pippo pippa coca");
 
 	}
 
